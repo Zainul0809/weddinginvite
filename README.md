@@ -1,2 +1,2 @@
 # weddinginvite
-weeding invite
+wedding invite
